@@ -41,7 +41,7 @@ library(zoo)
     
 ## Data
 
-To run this project, you will need to place the R code in the same folder as the following data files, which can be obtained from the manuscript.
+To run this project, you will need to place the R code in the same folder as the following data files.
 
 - supplementary_data_1.xlsx
 - supplementary_data_2.csv
