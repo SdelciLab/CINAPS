@@ -36,6 +36,14 @@ library(rstatix)
 library(tidyverse)
 library(viridis)
 library(zoo)
+library(sjmisc)
+library(circlize)
+library(ComplexHeatmap)
+library(data.table)
+library(ggrepel)
+library(biomaRt)
+library(org.Hs.eg.db)
+library(clusterProfiler)
 
 ```
     
